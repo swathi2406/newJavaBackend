@@ -1,0 +1,43 @@
+/* Swathi */
+.tab {
+  display: flex;
+  flex-direction: column;
+  margin: 5rem;
+}
+
+.sidebar {
+  display: flex;
+  margin: 3rem;
+  margin-top: 7rem;
+  flex-direction: column;
+  /* border: 1px solid black; */
+}
+
+/* .sidenav {
+  background-color: rgb(230, 222, 214);
+} */
+
+.tagsearch {
+  margin: 2rem;
+}
+
+.taginput {
+  border-radius: 2rem;
+  border-color: black;
+  border-spacing: 1px;
+}
+
+.cardborder {
+  border-radius: 2rem;
+  border-color: darkgrey;
+}
+
+.buttonplus {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  position: relative;
+  float: right;
+  justify-content: flex-end;
+  border-radius: 2rem;
+}
